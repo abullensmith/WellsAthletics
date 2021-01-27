@@ -1,4 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to Analysis of Wellesley College Varsity Athletic Rosters!
+
+For the January Project, I scraped Wellesley Blue Website(https://www.wellesleyblue.com/landing/index) to analyze and look at Wellesley Varsity Rosters from the 2010-11 to 2020-21 seasons. 
+
+# What I used
+
+I used google sheets to scrape the rosters, and I used Selenium, a python library, to scrape the coaches information from the website. 
+
 
 You can use the [editor on GitHub](https://github.com/abullensmith/WellsAthletics/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
