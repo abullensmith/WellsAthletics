@@ -6,10 +6,10 @@ For the January Project, I scraped Wellesley Blue Website(https://www.wellesleyb
 
 I used google sheets to scrape the rosters, and I used Selenium, a python library, to scrape the coaches information from the website. In my repository, you can find the csv files I made of the rosters, and a juypter notebook scraping the coaches information.
 
-## Background
-
 ## Interesting Finds
 
+
+![Image](WellsAthletics/Screen Shot 2021-01-17 at 10.27.03 AM.png)
 ## Look to the Future
 
 You can use the [editor on GitHub](https://github.com/abullensmith/WellsAthletics/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
