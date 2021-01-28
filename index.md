@@ -10,13 +10,16 @@ I used google sheets to scrape the rosters, and I used Selenium, a python librar
 Below are some of my interesting findings:
 
 Below is a general overview graph of all the Varisty Team. It illustrates how the size of different teams have changed over the past 10 seasons.
+
 ![Image](https://github.com/abullensmith/WellsAthletics/blob/gh-pages/images/TeamSizeGraph.png)
 
 Below is the number of athletes in all sports who have completed up to or more years as a varsity athlete at Wellesley. Student Athletes in multiple sports will be counted separately in each sport.
+
 ![Image](https://github.com/abullensmith/WellsAthletics/blob/gh-pages/images/cumulative.png)
 
 
 Above was the cumulative view. This is the non cumulative view and show the drop over the 4 years.
+
 ![Image](https://github.com/abullensmith/WellsAthletics/blob/gh-pages/images/noncumulative.png)
 
 
