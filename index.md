@@ -6,10 +6,15 @@ For the January Project, I scraped Wellesley Blue Website(https://www.wellesleyb
 
 I used google sheets to scrape the rosters, and I used Selenium, a python library, to scrape the coaches information from the website. In my repository, you can find the csv files I made of the rosters, and a juypter notebook scraping the coaches information.
 
-## Interesting Finds
+### Interesting Finds
 
 
 ![Image](https://github.com/abullensmith/WellsAthletics/blob/gh-pages/images/TeamSizeGraph.png)
+![Image](https://github.com/abullensmith/WellsAthletics/blob/gh-pages/images/AthleteBar.png)
+![Image](https://github.com/abullensmith/WellsAthletics/blob/gh-pages/images/cumulative.png)
+![Image](https://github.com/abullensmith/WellsAthletics/blob/gh-pages/images/noncumulative.png)
+
+
 ## Look to the Future
 
 You can use the [editor on GitHub](https://github.com/abullensmith/WellsAthletics/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
@@ -40,10 +45,7 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/abullensmith/WellsAthletics/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Questions?
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If you have any questions about my findings or my project, feel free to email me at abullens@wellesley.edu
