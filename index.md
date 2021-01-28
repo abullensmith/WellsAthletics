@@ -9,10 +9,10 @@ I used google sheets to scrape the rosters, and I used Selenium, a python librar
 ### Interesting Finds
 
 
-![Image](https://github.com/abullensmith/WellsAthletics/blob/gh-pages/images/TeamSizeGraph.png)
-![Image](https://github.com/abullensmith/WellsAthletics/blob/gh-pages/images/AthleteBar.png)
-![Image](https://github.com/abullensmith/WellsAthletics/blob/gh-pages/images/cumulative.png)
-![Image](https://github.com/abullensmith/WellsAthletics/blob/gh-pages/images/noncumulative.png)
+![Image]("https://github.com/abullensmith/WellsAthletics/blob/gh-pages/images/TeamSizeGraph.png")
+![Image]("https://github.com/abullensmith/WellsAthletics/blob/gh-pages/images/AthleteBar.png")
+![Image]("https://github.com/abullensmith/WellsAthletics/blob/gh-pages/images/cumulative.png")
+![Image]("https://github.com/abullensmith/WellsAthletics/blob/gh-pages/images/noncumulative.png")
 
 
 ## Look to the Future
